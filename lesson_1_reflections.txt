@@ -1,0 +1,29 @@
+Using the diff helped highlighting the sentences which were different in two files on the same line number. Once the differences are displayed, you can just look at the differences which are there and find out if there is any typo. Without diff, you would have to go through each statement line by line to compare the two files and know the difference. You also go through the lines which are not difference and hence, it takes more time doing it manually. 
+
+if the older versions are available, you can go back to the previous version if the current version is not working and not required anymore because of the chnage in the requirements. you can compare the current version with the previous versions to easily see how the file has evolved over time. you can back to the history to know when a piece of code was added or deleted from a particular file
+
+pros and cons of manually choosing a commit:
+pros:
+1) the user can do the commit when he/she thinks its the right time. this will ensure that only appropriate number of version history is created
+cons:
+1) the user may not do the commit at the right now. the user may commit either too early or too late or may forget completely
+
+automatic commit
+pros:
+the user doesn't have to worry about committing his/her chnages
+
+cons: there will be too many versions created, which can become difficult to read and understand
+
+Question 4:
+Google Docs is meant to be for individual files. it doesnt expect files to be inter-related or inter-dependent and hence, it is designed to treat each document indivdually. Git is meant for saving the code and the code can be inter-related and inter-dependent. So, to understand what all files were changes as part of a single change, GIT allows committing multiple files at once
+
+Question 5:
+Got log is used to see all the commits which have been made to a particular git repository
+
+then to look at the differences between two commits, you can use GIT Diff
+
+Question 6
+using a version control system ensures that I have a working version saved in the system in case i need to go back to the working version if my new changes are not working. I can either compare or go to back to the working version by retrieving it from the version control system
+
+Question 7
+I would like to try checking-in or comitting the code, creating branches and may be tagging, if available in GIT
