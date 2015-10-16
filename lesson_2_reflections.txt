@@ -1,0 +1,1 @@
+It gives a message that there is no head and it is an empty repository. Initiation is done to indicate that the project is a GIT project.
