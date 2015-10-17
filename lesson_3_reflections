@@ -1,3 +1,5 @@
 when multiple users have to work on the same repository, you can define a remote repository. each user can then take a local copy of the repository and work on his/her version
 
 I would also want to pull from remote instead of Git automatically keeping it up-to-date because if multiple users are working on the same version, I may not want to have that version. Automatic up-to-date can break my working version of code in the local repository
+
+Fork: Fork is if you want to make a copy of another user's repository in GIT Hub to your id in GIT HUB. this way if you make any changes to the repository, it won't impact that other user's repository. To start working on the forked repository, you can clone it to your local repository. You can branch it out if you like to add new features, etc.
