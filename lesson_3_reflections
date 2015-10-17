@@ -1,0 +1,1 @@
+when multiple users have to work on the same repository, you can define a remote repository. each user can then take a local copy of the repository and work on his/her version
