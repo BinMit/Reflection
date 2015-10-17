@@ -1,1 +1,3 @@
 It gives a message that there is no head and it is an empty repository. Initiation is done to indicate that the project is a GIT project.
+
+branches help when you have try an experiment on your code without worrying about impacting the working code or there are multiple teams working on the same piece of code
