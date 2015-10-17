@@ -1,1 +1,3 @@
 when multiple users have to work on the same repository, you can define a remote repository. each user can then take a local copy of the repository and work on his/her version
+
+I would also want to pull from remote instead of Git automatically keeping it up-to-date because if multiple users are working on the same version, I may not want to have that version. Automatic up-to-date can break my working version of code in the local repository
